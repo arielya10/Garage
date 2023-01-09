@@ -13,7 +13,7 @@ This project is a garage management system that allows the user to add, remove, 
 
 ## Getting Started
 1. Clone or download this repository.
-2. Open the solution file Final.sln in Visual Studio.
+2. Open the solution file Garage.sln in Visual Studio.
 3. Build and run the solution.
 
 ## User Guide
