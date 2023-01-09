@@ -5,7 +5,7 @@ This project is a garage management system that allows the user to add, remove, 
 - Add a new vehicle to the garage: The user can add a new vehicle to the garage by clicking the "New Vehicle" button and filling out the form with the required information. Supported vehicle types are: airplane, boat, car, motorcycle, and vehicle.
 - View information about a specific vehicle: The user can select a vehicle from the dropdown menu and view information such as the manufacturer, year, maximum speed, and current kilometer reading.
 - Remove a vehicle from the garage: The user can remove a vehicle from the garage by selecting it from the dropdown menu and clicking the "Remove" button.
-- View the next recommended visit for a specific vehicle: The user can view the next recommended visit for a specific vehicle based on its type. For example, an airplane would have a recommended visit every 30,000 kilometers while a boat would have a recommended visit every 1,000 kilometers.
+- View the next recommended visit for a specific vehicle: The user can view the next recommended visit for a specific vehicle based on its type. For example, an airplane would have a recommended visit every 30,000 kilometers while a car would have a recommended visit every 10,000 kilometers.
 
 ## Requirements
 - [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
